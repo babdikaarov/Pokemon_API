@@ -9,12 +9,14 @@ section {
   justify-content: center;
   flex-direction: row;
   flex-wrap: wrap;
-  width: 500px;
+  width: 600px;
 }
 
 .pokemon {
-  width: 150px;
-  margin: 20px;
+  display: flex;
+  align-items: center;
+  width: 200px;
+  margin: 10px 25px;
   padding: 5px;
   background-color: #8AE0FC;
   border-radius: 10px;
